@@ -9,6 +9,7 @@
   opacity: 1;
   transition: .3s opacity;
   cursor: pointer;
+  margin-top: 12px;
 }
 .place__link:hover {
   opacity: 0.6;
